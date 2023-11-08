@@ -14,7 +14,7 @@ the steps i followed to use the SFTP command-line tool in my project:
 
 4: Use the SFTP put command to upload the screenshots from your local machine to the sandbox environment.
 
-`put path_screenshots\*.jpg`
+`put path_screenshots\*.PNG`
 
 5: Confirm that the screenshots have been successfully transferred.
 
