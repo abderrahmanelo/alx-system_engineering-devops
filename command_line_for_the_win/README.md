@@ -20,4 +20,4 @@ the steps i followed to use the SFTP command-line tool in my project:
 
 `ls`
 
-![Alt Text](command.jpg)
+![Alt Text](command.PNG)
